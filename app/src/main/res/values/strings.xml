@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent App</string>
+    <string name="intent">Intent</string>
+    <string name="intent_dengan_data">Intent dengan data</string>
+    <string name="intent_implicit">Intent Implicit</string>
+    <string name="nama">Nama</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="show">show</string>
+</resources>
